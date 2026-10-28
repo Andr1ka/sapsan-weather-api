@@ -1,0 +1,6 @@
+@Sapsan.WeatherApi_HostAddress = http://localhost:5231
+
+GET {{Sapsan.WeatherApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
